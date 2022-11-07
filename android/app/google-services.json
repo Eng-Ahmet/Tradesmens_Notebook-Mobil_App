@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523778821426",
+    "project_id": "bab-al-hara-1a5a6",
+    "storage_bucket": "bab-al-hara-1a5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523778821426:android:2a1afd5dd517bb6ec7db2b",
+        "android_client_info": {
+          "package_name": "com.example.babalhara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523778821426-4s6ung6rlks07n83n2ica86n55hpel3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.babalhara",
+            "certificate_hash": "87babd4d0d5c0b1c645648fdc75372218f7c0bea"
+          }
+        },
+        {
+          "client_id": "523778821426-516br855043stbb1g3k2017hp8809n0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2fveOWB5XiOUZmYueipErBiNRsNW5ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523778821426-516br855043stbb1g3k2017hp8809n0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
