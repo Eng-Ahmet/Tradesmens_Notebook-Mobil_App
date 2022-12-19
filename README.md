@@ -11,7 +11,7 @@ This app allows you to manage the mony of your businnes
 
 4-supported english, turkish and arabic languages
 
-<a href="https://www.mediafire.com/file/t3cyp27sg2s63qv/Tradesmens_Notebook.apk/file">Download APK</a>
+<a href="https://play.google.com/store/apps/details?id=com.ahmet.tradesmens_notebook">Download APK</a>
 
 <div display: flex>
    <img src="app images/add mony page.jpeg" width="300">
